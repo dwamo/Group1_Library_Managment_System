@@ -1,6 +1,6 @@
 # Group1_Library_Managment_System
 This project was embacked on by Group one of Human Computer Interaction Evening Class. 
-The Group mebers include:
+The Group members include:
 
 1)ISAAC DWAMENA - 221019804
 
