@@ -35,6 +35,7 @@ SCREENSHOTS OF PROJECT
 
 
 FEATURES OF THE PROJECT
+
 User login – The name tells you exactly what this function does. It lets the user and the admin login. The first login is always the administrator login, and the password is always admin.
 
 User menu – The user menu shows all of the books that the user has checked out or borrowed.
